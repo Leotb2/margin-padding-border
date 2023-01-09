@@ -1,0 +1,22 @@
+/* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px; */
+    /* margin: 20px */
+
+    p{
+        background-color: black;
+        color: brown;
+        margin: 20px 15px 20px 15px;
+        padding: 15px;
+        border: 9px solid rgb(255, 9, 3) ;
+    }
+    
+    h1{
+        background-color: black;
+        color: brown;
+        padding: 10px 30px 10px 30px;
+        border: 5px solid;
+        border-color: purple red orange green;
+        margin: 15px
+    }
